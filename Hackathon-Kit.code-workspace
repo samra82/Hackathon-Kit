@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Hackathon-Kit",
+			"path": "."
+		},
+		{
+			"name": "Hacathon_Documents",
+			"path": "../../Hacathon_Documents"
+		}
+	],
+	"settings": {}
+}
